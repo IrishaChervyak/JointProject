@@ -93,5 +93,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icon\fifthIcon.png" />
+    <Resource Include="Icon\firstIcon.png" />
+    <Resource Include="Icon\forthIcon.png" />
+    <Resource Include="Icon\secondIcon.png" />
+    <Resource Include="Icon\thirdIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Icon\AeroWinFlip.ico" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
