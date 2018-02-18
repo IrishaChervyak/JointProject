@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DevelopGrafRepr"
         mc:Ignorable="d"
-        Title="Представление сотовой сети и абонентов" Height="450" Width="500">
+        Title="Представление сотовой сети и абонентов red" Height="450" Width="500">
     <Grid>
         
     </Grid>
